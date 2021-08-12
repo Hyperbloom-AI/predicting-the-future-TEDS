@@ -1,2 +1,2 @@
-training_data.csv
-evaluation_data.csv
+split-data/*
+
